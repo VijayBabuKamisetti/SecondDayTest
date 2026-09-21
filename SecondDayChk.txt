@@ -2,3 +2,4 @@ Repo is created in GitHub
 cloned the repo in VS studio
 creating the txt file in Vs studio
 pushing back into repo
+adding one more line
